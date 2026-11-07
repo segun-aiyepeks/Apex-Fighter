@@ -1,0 +1,6 @@
+{
+  "name": "Apex Fighter: Real-Time Multiplayer Arena",
+  "description": "High-intensity real-time multiplayer 2D fighter with low-latency matchmaking, diverse fighting styles, fighter registration, profile dashboard, and global leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
